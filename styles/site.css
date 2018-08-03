@@ -347,16 +347,6 @@ h5 {
 h1.logo {
   position: relative;
 }
-h1.logo:after {
-  content: '';
-  position: absolute;
-  bottom: -10px;
-  right: 2px;
-  z-index: -1;
-  width: 63%;
-  height: 14px;
-  background: #ffca04;
-}
 .about-me {
   padding-top: 10px;
   padding-left: 1em;
